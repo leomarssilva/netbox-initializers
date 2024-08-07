@@ -2,7 +2,7 @@
 name: Pull request tests
 
 on:
-  pull_request:
+  push
 
 jobs:
   lint:
